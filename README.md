@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Gupta</h1>
 <h3 align="center">Transforming Ideas into Functional Software</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/woman-operating-laptop-with-coffee-cartoon-vector-illustration-people-technology-concept-isolated-flat-cartoon-style_138676-1869.jpg?w=2000">
